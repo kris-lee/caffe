@@ -1,3 +1,8 @@
+# code for distinguishing and get train_txt and val_txt through the src_path
+# auth : Li zhichao
+# data : 2016-11-4
+
+
 # -*- coding:utf-8 -*-
 import os
 import sys
