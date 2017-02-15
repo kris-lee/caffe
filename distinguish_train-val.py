@@ -35,7 +35,7 @@ def get_file_list(src_path):
 			line = '%s %d\n' % (single_path,(train_number-1)/80)
 			tt.write(line)		
 
-]
+
 	# classify total into diffierent kind and save them to the val_txt
 	with open(val_txt,'wb') as tp:
 		for single_path in val_file_list:
